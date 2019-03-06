@@ -10,3 +10,5 @@
 * 测试用最新数据库: opencart.sql
 
 * 初始安装后 sql 备份: opencart_init.sql
+
+* 丰富的扩展: https://www.opencart.com/index.php?route=marketplace/extension
