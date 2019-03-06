@@ -4,12 +4,12 @@
  */
 
 // HTTP
-define('HTTP_SERVER', 'http://localhost:8000/admin/');
-define('HTTP_CATALOG', 'http://localhost:8000/');
+define('HTTP_SERVER', 'http://localhost:9000/admin/');
+define('HTTP_CATALOG', 'http://localhost:9000/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost:8000/admin/');
-define('HTTPS_CATALOG', 'http://localhost:8000/');
+define('HTTPS_SERVER', 'http://localhost:9000/admin/');
+define('HTTPS_CATALOG', 'http://localhost:9000/');
 
 // DIR
 define('DIR_APPLICATION', '/mnt/d/Lazyou/opencart/admin/');

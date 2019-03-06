@@ -1,7 +1,7 @@
 ## 简介
 * opencart 版本为: 1.5.6.4
 
-* `php -S localhost:8000`
+* 运行: `php -S localhost:9000`
 
 * 后台用户: `admin/111111`
 
